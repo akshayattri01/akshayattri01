@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Ashu Attri
 
-<!--
-**akshayattri01/akshayattri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🚀 Passionate about building real-world projects  
+🌱 Currently learning Java, React & Backend Development  
+📌 Interested in Web Development & Problem Solving
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Java
+- JavaScript
+- React.js
+- Node.js
+- HTML, CSS, Tailwind CSS
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- TaskFlow – Project Management Web App
+- ContentForge AI – AI Content Generator
+- Web3 Ethereum Transaction DApp
+- Portfolio Website
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aashu-attri-24616a24b/
